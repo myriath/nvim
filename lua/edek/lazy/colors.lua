@@ -9,8 +9,8 @@ end
 
 return {
     {
-	"kepano/flexoki-neovim",
-	name = "flexoki"
+        "kepano/flexoki-neovim",
+        name = "flexoki"
     },
     {
         "folke/tokyonight.nvim",
